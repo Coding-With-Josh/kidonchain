@@ -27,6 +27,7 @@ const Main = () => {
             <h2 className="text-md mt-[-2px]">Based in <span className='font-semibold bg-clip-text text-transparent bg-gradient-to-r from-green-600 dark:via-white via-zinc-400/60 to-green-500'>Nigeria</span></h2>
             <Separator className='w-1/2' />
             <div className='flex flex-col items-start justify-center text-primary/80'>
+                <h2 className="text-sm text-white">4+ years</h2>
                 <h2 className="text-sm">Blockchain Developer. Mobile Developer. Web Developer</h2>
                 <h2 className="text-sm">I build things that make life easier especially for devs like me 😊.</h2>
                 <h2 className="text-sm">Currently working on <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-600 via-blue-600 to-green-500 font-bold animate-bounce cursor-pointer hover:scale-105 hover:underline transition-all duration-300">SolanaWearables</span>✨.</h2>
