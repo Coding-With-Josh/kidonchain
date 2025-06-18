@@ -132,8 +132,9 @@ const Projects = () => {
     ];
 
     return (
-        <section className="max-w-3xl mx-auto px-4 py-8 min-h-screen bg-neutral-50 dark:bg-neutral-900">
+        <section className="max-w-3xl mx-auto px-4 py-8 min-h-screen">
             <h2 className="font-bold text-xl mb-6 text-neutral-900 dark:text-white">Here are my projects 😎</h2>
+            <h2 className="font-bold text-lg mb-6 text-neutral-900 dark:text-white">Click on a project to see more on a dialog</h2>
 
             {/* Featured Project */}
             <MorphingDialog
