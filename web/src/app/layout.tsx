@@ -18,7 +18,7 @@ const mono = Fira_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hey There.. Its me, Joshua.",
+  title: "Hey There.. Its Joshua.",
   authors: [
     {
       name: "Joshua Idele",
