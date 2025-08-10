@@ -55,7 +55,7 @@ const Projects = () => {
             { icon: <SiNodedotjs className="text-[#339933]" />, name: "Node.js" },
             { icon: <SiPostgresql className="text-[#4169E1]" />, name: "PostgreSQL" },
         ],
-        link: "https://arch-ai-dev.vercel",
+        link: "https://arch-ai-dev.vercel.app",
         github: "https://github.com/Coding-With-Josh/arch-ai",
         image: archDemo
     };
@@ -75,7 +75,7 @@ const Projects = () => {
                 { icon: <SiNodedotjs className="text-[#339933]" />, name: "Node.js" },
                 { icon: <SiPostgresql className="text-[#4169E1]" />, name: "PostgreSQL" },
             ],
-            link: "https://sync-launch-pad.vercel",
+            link: "https://sync-launch-pad.vercel.app",
             github: "https://github.com/Coding-With-Josh/sync-ai",
             image: syncDemo
         },
@@ -91,7 +91,7 @@ const Projects = () => {
                 { icon: <SiTypescript className="text-[#363636]" />, name: "TypeScript" },
                 { icon: <SiNodedotjs className="text-[#339933]" />, name: "Node.js" }
             ],
-            link: "https://dot.sol.vercel.app",
+            link: "https://dot-sol.vercel.app",
             github: "https://github.com/Coding-With-Josh/dot-ai",
             image: dotDemo
         },
@@ -107,7 +107,7 @@ const Projects = () => {
                 { icon: <SiTypescript className="text-[#363636]" />, name: "TypeScript" },
                 { icon: <SiNodedotjs className="text-[#339933]" />, name: "Node.js" }
             ],
-            link: "https://grid-dev.vercel",
+            link: "https://grid-dev.vercel.app",
             github: "https://github.com/Coding-With-Josh/grid",
             image: gridDemo
         },
